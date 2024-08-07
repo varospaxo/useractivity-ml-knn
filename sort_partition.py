@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np
 
 # Read the CSV file
-df = pd.read_csv('user_act_big_sorted.csv')
+df = pd.read_csv('user_act.csv')
 
 # Sort by prospect ID
 sorted_df = df.sort_values(by='ProspectID')
