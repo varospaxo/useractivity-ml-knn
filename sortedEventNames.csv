@@ -1,0 +1,326 @@
+EventName,Used
+Application Form Purchased,
+Application Form Submitted,
+Appointment Scheduled,
+Aptitude Test Taken,
+Ask Me Anything Session Attended,1
+Ask Me Anything Session Feedback Form Filled,1
+Ask Me Anything Session Registered,1
+CC Application,
+Call Audited,1
+Call Connected,1
+Call Not Connected,1
+Campus Tour Attended,1
+Campus Tour Registered,1
+Certificate Course Completed,
+Certificate Course Payment Incomplete,
+Certificate Course Purchased,
+Chatted with Counsellor on YM,1
+Chatting On Whatsapp,1
+Chatting On Yellow Messenger,1
+Cold Database Call,1
+Cold Database Call Connected,1
+Cold Database Call Not Connected,1
+College Seminar Attended,1
+College Webinar Attended,1
+College Webinar Registered,1
+Converted to Lead,1
+DMAC Registered,1
+Demo Completed,1
+Demo Scheduled,1
+Direct Application,
+Downsell,1
+Duplicate Detected,
+Dynamic Form Submission,1
+Email Clicked on MoEngage,1
+Email Link Clicked,1
+Email Opened,1
+Email Opened From MoEngage,1
+Email Received,1
+Email Sent,1
+Email Sent From MoEngage,1
+EmailSent,1
+Entrance Test Submitted,
+Facebook Lead Ads Submissions,1
+Futwork Call Connected,1
+Futwork Call Not Connected,1
+Inbound Phone Call Activity,1
+Info Session Attended,1
+Info Session Feedback Form Filled,1
+Info Session Registered,1
+Interview Scheduled,
+Lead Capture,1
+Lead Form Submitted,1
+Lead Referred,1
+Lead Shared through Agent Popup,1
+Lead Stage Changed,1
+LeadAssigned,1
+Live Masterclass Attended,1
+Live Masterclass Feedback Form Filled,1
+Live Masterclass Registered,1
+Mailing preference link clicked,1
+Merge,1
+Nurture Journey Entered,
+Nurture Journey Exited,
+ODMC Application,
+Opportunity Captured,
+Outbound Call ODMC,
+Outbound Call PCDM,
+Outbound Call PG,
+Outbound Call Upsell,
+Outbound Phone Call Activity,
+PCDMS Application,
+PG Application,
+PG Application Form Purchased,
+Page Visited on Website,1
+Payment Attempted,
+Payment Failed,
+Payment Received,
+Placement Report Download,
+Razorpay Payment,
+Refer & Earn Registered,1
+Resubscribed,1
+SMS Received,1
+SMS Sent,1
+Sales Activity,
+Scholarship Test Registered,1
+Scholarship Test Submitted,1
+SourceChange,1
+StageChangeApp ExpectedApplied,
+StageChangeApp ExpectedContact Attempted-Connected,
+StageChangeApp ExpectedContact Attempted-Not Connected,
+StageChangeApp ExpectedCustomer,
+StageChangeApp ExpectedDefault,
+StageChangeApp ExpectedFuture Batches,
+StageChangeApp ExpectedIn convo Neutral,
+StageChangeApp ExpectedIn convo Warm,
+StageChangeApp ExpectedMarketing Acquired,
+StageChangeApp ExpectedNew,
+StageChangeApp ExpectedNurture,
+StageChangeApp ExpectedReactivated,
+StageChangeApp ExpectedUnqualified,
+StageChangeAppliedApp Expected,
+StageChangeAppliedContact Attempted-Connected,
+StageChangeAppliedContact Attempted-Not Connected,
+StageChangeAppliedCustomer,
+StageChangeAppliedDefault,
+StageChangeAppliedFuture Batches,
+StageChangeAppliedIn convo Neutral,
+StageChangeAppliedIn convo Warm,
+StageChangeAppliedMarketing Acquired,
+StageChangeAppliedMarketing Qualified,
+StageChangeAppliedNew,
+StageChangeAppliedNurture,
+StageChangeAppliedReactivated,
+StageChangeAppliedUnqualified,
+StageChangeContact Attempted-ConnectedApp Expected,
+StageChangeContact Attempted-ConnectedApplied,
+StageChangeContact Attempted-ConnectedContact Attempted-Not Connected,
+StageChangeContact Attempted-ConnectedCustomer,
+StageChangeContact Attempted-ConnectedDefault,
+StageChangeContact Attempted-ConnectedFuture Batches,
+StageChangeContact Attempted-ConnectedIn convo Neutral,
+StageChangeContact Attempted-ConnectedIn convo Warm,
+StageChangeContact Attempted-ConnectedMarketing Acquired,
+StageChangeContact Attempted-ConnectedMarketing Qualified,
+StageChangeContact Attempted-ConnectedNew,
+StageChangeContact Attempted-ConnectedNurture,
+StageChangeContact Attempted-ConnectedReactivated,
+StageChangeContact Attempted-ConnectedUnqualified,
+StageChangeContact Attempted-Not ConnectedApp Expected,
+StageChangeContact Attempted-Not ConnectedApplied,
+StageChangeContact Attempted-Not ConnectedContact Attempted-Connected,
+StageChangeContact Attempted-Not ConnectedCustomer,
+StageChangeContact Attempted-Not ConnectedDefault,
+StageChangeContact Attempted-Not ConnectedFuture Batches,
+StageChangeContact Attempted-Not ConnectedIn convo Neutral,
+StageChangeContact Attempted-Not ConnectedIn convo Warm,
+StageChangeContact Attempted-Not ConnectedMarketing Acquired,
+StageChangeContact Attempted-Not ConnectedMarketing Qualified,
+StageChangeContact Attempted-Not ConnectedNew,
+StageChangeContact Attempted-Not ConnectedNurture,
+StageChangeContact Attempted-Not ConnectedReactivated,
+StageChangeContact Attempted-Not ConnectedUnqualified,
+StageChangeCustomerApp Expected,
+StageChangeCustomerApplied,
+StageChangeCustomerContact Attempted-Connected,
+StageChangeCustomerContact Attempted-Not Connected,
+StageChangeCustomerDefault,
+StageChangeCustomerFuture Batches,
+StageChangeCustomerIn convo Neutral,
+StageChangeCustomerIn convo Warm,
+StageChangeCustomerMarketing Acquired,
+StageChangeCustomerMarketing Qualified,
+StageChangeCustomerNew,
+StageChangeCustomerNurture,
+StageChangeCustomerReactivated,
+StageChangeCustomerUnqualified,
+StageChangeDefaultApp Expected,
+StageChangeDefaultApplied,
+StageChangeDefaultContact Attempted-Connected,
+StageChangeDefaultContact Attempted-Not Connected,
+StageChangeDefaultCustomer,
+StageChangeDefaultFuture Batches,
+StageChangeDefaultIn convo Neutral,
+StageChangeDefaultIn convo Warm,
+StageChangeDefaultMarketing Acquired,
+StageChangeDefaultMarketing Qualified,
+StageChangeDefaultNew,
+StageChangeDefaultNurture,
+StageChangeDefaultReactivated,
+StageChangeDefaultUnqualified,
+StageChangeFuture BatchesApp Expected,
+StageChangeFuture BatchesApplied,
+StageChangeFuture BatchesContact Attempted-Connected,
+StageChangeFuture BatchesContact Attempted-Not Connected,
+StageChangeFuture BatchesCustomer,
+StageChangeFuture BatchesDefault,
+StageChangeFuture BatchesIn convo Neutral,
+StageChangeFuture BatchesIn convo Warm,
+StageChangeFuture BatchesMarketing Acquired,
+StageChangeFuture BatchesMarketing Qualified,
+StageChangeFuture BatchesNew,
+StageChangeFuture BatchesNurture,
+StageChangeFuture BatchesReactivated,
+StageChangeFuture BatchesUnqualified,
+StageChangeIn convo NeutralApp Expected,
+StageChangeIn convo NeutralApplied,
+StageChangeIn convo NeutralContact Attempted-Connected,
+StageChangeIn convo NeutralContact Attempted-Not Connected,
+StageChangeIn convo NeutralCustomer,
+StageChangeIn convo NeutralDefault,
+StageChangeIn convo NeutralFuture Batches,
+StageChangeIn convo NeutralIn convo Warm,
+StageChangeIn convo NeutralMarketing Acquired,
+StageChangeIn convo NeutralMarketing Qualified,
+StageChangeIn convo NeutralNew,
+StageChangeIn convo NeutralNurture,
+StageChangeIn convo NeutralReactivated,
+StageChangeIn convo NeutralUnqualified,
+StageChangeIn convo WarmApp Expected,
+StageChangeIn convo WarmApplied,
+StageChangeIn convo WarmContact Attempted-Connected,
+StageChangeIn convo WarmContact Attempted-Not Connected,
+StageChangeIn convo WarmCustomer,
+StageChangeIn convo WarmDefault,
+StageChangeIn convo WarmFuture Batches,
+StageChangeIn convo WarmIn convo Neutral,
+StageChangeIn convo WarmMarketing Acquired,
+StageChangeIn convo WarmMarketing Qualified,
+StageChangeIn convo WarmNew,
+StageChangeIn convo WarmNurture,
+StageChangeIn convo WarmReactivated,
+StageChangeIn convo WarmUnqualified,
+StageChangeMarketing AcquiredApp Expected,
+StageChangeMarketing AcquiredApplied,
+StageChangeMarketing AcquiredContact Attempted-Connected,
+StageChangeMarketing AcquiredContact Attempted-Not Connected,
+StageChangeMarketing AcquiredCustomer,
+StageChangeMarketing AcquiredDefault,
+StageChangeMarketing AcquiredFuture Batches,
+StageChangeMarketing AcquiredIn convo Neutral,
+StageChangeMarketing AcquiredIn convo Warm,
+StageChangeMarketing AcquiredMarketing Qualified,
+StageChangeMarketing AcquiredNew,
+StageChangeMarketing AcquiredNurture,
+StageChangeMarketing AcquiredReactivated,
+StageChangeMarketing AcquiredUnqualified,
+StageChangeMarketing QualifiedApp Expected,
+StageChangeMarketing QualifiedApplied,
+StageChangeMarketing QualifiedContact Attempted-Connected,
+StageChangeMarketing QualifiedContact Attempted-Not Connected,
+StageChangeMarketing QualifiedCustomer,
+StageChangeMarketing QualifiedDefault,
+StageChangeMarketing QualifiedFuture Batches,
+StageChangeMarketing QualifiedIn convo Neutral,
+StageChangeMarketing QualifiedIn convo Warm,
+StageChangeMarketing QualifiedMarketing Acquired,
+StageChangeMarketing QualifiedNew,
+StageChangeMarketing QualifiedNurture,
+StageChangeMarketing QualifiedReactivated,
+StageChangeMarketing QualifiedUnqualified,
+StageChangeNewApp Expected,
+StageChangeNewApplied,
+StageChangeNewContact Attempted-Connected,
+StageChangeNewContact Attempted-Not Connected,
+StageChangeNewCustomer,
+StageChangeNewDefault,
+StageChangeNewFuture Batches,
+StageChangeNewIn convo Neutral,
+StageChangeNewIn convo Warm,
+StageChangeNewMarketing Acquired,
+StageChangeNewMarketing Qualified,
+StageChangeNewNurture,
+StageChangeNewReactivated,
+StageChangeNewUnqualified,
+StageChangeNurtureApp Expected,
+StageChangeNurtureApplied,
+StageChangeNurtureContact Attempted-Connected,
+StageChangeNurtureContact Attempted-Not Connected,
+StageChangeNurtureCustomer,
+StageChangeNurtureDefault,
+StageChangeNurtureFuture Batches,
+StageChangeNurtureIn convo Neutral,
+StageChangeNurtureIn convo Warm,
+StageChangeNurtureMarketing Acquired,
+StageChangeNurtureMarketing Qualified,
+StageChangeNurtureNew,
+StageChangeNurtureReactivated,
+StageChangeNurtureUnqualified,
+StageChangeProspectApplied,
+StageChangeProspectCustomer,
+StageChangeProspectDefault,
+StageChangeProspectMarketing Acquired,
+StageChangeProspectMarketing Qualified,
+StageChangeProspectNew,
+StageChangeProspectNurture,
+StageChangeReactivatedApp Expected,
+StageChangeReactivatedApplied,
+StageChangeReactivatedContact Attempted-Connected,
+StageChangeReactivatedContact Attempted-Not Connected,
+StageChangeReactivatedCustomer,
+StageChangeReactivatedDefault,
+StageChangeReactivatedFuture Batches,
+StageChangeReactivatedIn convo Neutral,
+StageChangeReactivatedIn convo Warm,
+StageChangeReactivatedMarketing Acquired,
+StageChangeReactivatedMarketing Qualified,
+StageChangeReactivatedNew,
+StageChangeReactivatedNurture,
+StageChangeReactivatedUnqualified,
+StageChangeUnqualifiedApp Expected,
+StageChangeUnqualifiedApplied,
+StageChangeUnqualifiedContact Attempted-Connected,
+StageChangeUnqualifiedContact Attempted-Not Connected,
+StageChangeUnqualifiedCustomer,
+StageChangeUnqualifiedDefault,
+StageChangeUnqualifiedFuture Batches,
+StageChangeUnqualifiedIn convo Neutral,
+StageChangeUnqualifiedIn convo Warm,
+StageChangeUnqualifiedMarketing Acquired,
+StageChangeUnqualifiedMarketing Qualified,
+StageChangeUnqualifiedNew,
+StageChangeUnqualifiedNurture,
+StageChangeUnqualifiedReactivated,
+StageChangeWorking ProfessionalMarketing Acquired,
+StageChangeWorking ProfessionalReactivated,
+Unsubscribed,
+Unsubscribed From Promotional Emails,
+Upsell,1
+User Logged In,1
+VIP Applied,1
+VIP Completed,1
+VIP Registered,1
+Video Masterclass Feedback Form Filled,1
+Video Masterclass Quiz Taken,1
+Video Masterclass Registered,1
+Video Masterclass Watched,1
+Viewed Application Form,1
+Walkin,1
+Walkin - Old,1
+Walkin Schedule,1
+WhatsApp Message,1
+WhatsApp Message Sent,1
+Whatsapp Sent from MoEngage,1
+Zoom Meeting,1
+Zoom Meeting Started,1
